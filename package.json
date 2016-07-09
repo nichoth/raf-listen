@@ -1,0 +1,35 @@
+{
+  "name": "raf-listen",
+  "description": "Call a function at most once per animation frame.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/raf-listen.git"
+  },
+  "keywords": [
+    "raf",
+    "throttle",
+    "event",
+    "listen",
+    "debounce",
+    "animation",
+    "frame"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/raf-listen/issues"
+  },
+  "homepage": "https://github.com/nichoth/raf-listen#readme",
+  "devDependencies": {
+    "raf": "^3.2.0",
+    "standard": "^7.1.2"
+  }
+}
