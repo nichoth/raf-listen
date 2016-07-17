@@ -31,5 +31,8 @@
   "devDependencies": {
     "raf": "^3.2.0",
     "standard": "^7.1.2"
+  },
+  "dependencies": {
+    "global": "^4.3.0"
   }
 }

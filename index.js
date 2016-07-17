@@ -1,3 +1,5 @@
+var window = require('global/window')
+
 module.exports = function onRaf (fn) {
   var inProgress = false
 
