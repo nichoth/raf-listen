@@ -1,7 +1,7 @@
 {
   "name": "raf-listen",
   "description": "Call a function at most once per animation frame",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "directories": {
     "example": "example"
